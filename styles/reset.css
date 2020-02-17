@@ -34,6 +34,7 @@
 
     nav ul {
         list-style:none;
+        float: right;
     }
 
     blockquote, q {
@@ -97,3 +98,4 @@
     input, select {
         vertical-align:middle;
     }
+    
